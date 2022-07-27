@@ -8,7 +8,7 @@ These notebooks are used for [a MOOC](https://course.fast.ai) and form the basis
 
 The code in the notebooks and python `.py` files is covered by the GPL v3 license; see the LICENSE file for details. The remainder (including all markdown cells in the notebooks and other prose) is not licensed for any redistribution or change of format or medium, other than making copies of the notebooks or forking this repo for your own private use. No commercial or broadcast use is allowed. We are making these materials freely available to help you learn deep learning, so please respect our copyright and these restrictions.
 
-If you see someone hosting a copy of these materials somewhere else, please let them know that their actions are not allowed and may lead to legal action. Moreover, they would be hurting the community because we're not likely to release additional materials in this way if people ignore our copyright.
+If you see someone hosting a copy of these materials somewhere else, please let them know that their actions are not allowed and may lead to legal action against them. Moreover, they would be hurting the community because we're not likely to release additional materials in this way if people ignore our copyright.
 
 ## Colab
 
